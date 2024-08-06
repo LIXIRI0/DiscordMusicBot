@@ -2,7 +2,7 @@
   This is a Discord Music Bot created by using DisTube and discord.js
 # Installation
   You need the latest Node.js version for this to work. Run
-  'npm install'
+   'npm install'
   inside the project folder.
   Next you need to install FFMpeg. You can access the downloads from 
   https://www.ffmpeg.org/download.html
